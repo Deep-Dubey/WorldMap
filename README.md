@@ -11,3 +11,7 @@ Approach First i have create a Navbar then in Body Part i have divided the body 
 Hosted Link:- http://localhost:3000/
 
 Vedio Link:- https://youtu.be/MmRJqUY2Cd0
+
+ScreenShot
+
+![image](https://github.com/Deep-Dubey/WorldMap/assets/64470309/f5212e51-4ddd-49ad-a76f-f5959a1f8e9a)
